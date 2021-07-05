@@ -13,7 +13,7 @@ const Hero = () => (
       </SectionTitle>
 
     <SectionText>
-      Personal Objective...Need to update this. Testing updates!
+      Personal Objective...Need to update this. Testing updates for dev branch as default.
     </SectionText>
     <Button onClick={() => window.location = "https://google.com"}>Learn More</Button>
     </LeftSection>
