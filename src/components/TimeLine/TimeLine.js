@@ -44,10 +44,10 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About Me</SectionTitle>
-      <SectionText>
+      <SectionTitle>Experience</SectionTitle>
+      {/* <SectionText>
         Short Summary, Milestones
-      </SectionText>
+      </SectionText> */}
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
