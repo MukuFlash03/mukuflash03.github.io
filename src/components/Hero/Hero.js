@@ -9,7 +9,7 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Welcome to Mukul C. Mahadik's<br />
-        Personal Portfolio!
+        Portfolio!
       </SectionTitle>
 
     <SectionText>
