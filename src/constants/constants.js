@@ -38,6 +38,6 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017-2021, text: 'Started undergraduate studies', },
+  { year: 2017, text: 'Started undergraduate studies at NIT Hamirpur', },
   { year: 2021, text: 'Working as a Technical Consultant at Oracle Financial Services Software', }
 ];
